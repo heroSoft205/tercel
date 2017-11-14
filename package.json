@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-first",
+  "version": "1.0.0",
+  "description": "my first test plugin of cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroSoft205/tercel.git"
+  },
+  "keywords": [
+    "HelloWorld-cordova-plugin"
+  ],
+  "author": "tercel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/heroSoft205/tercel/issues"
+  },
+  "homepage": "https://github.com/heroSoft205/tercel#readme"
+}
